@@ -6,7 +6,7 @@ A simple thing to mount the EBB42 to an Bondtech LGX.
 <img src="images/irl.jpg" width="100%" height="100%">
 
 ## BOM
-- 4x M3x40 SHCS
+- 4x M3x30 SHCS
 - 2x small zipties
 
 ## Print guide
