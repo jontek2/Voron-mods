@@ -6,7 +6,8 @@ A simple thing to mount the Raspberry pi to an SSR mount.
 
 ## BOM
 - 2 of M4 screws
-- 4 of M2x10 Self Tapping Screw
+- 4 of M3 screws
+- 4 of M3 heatset insert
 
 ## Info
 
