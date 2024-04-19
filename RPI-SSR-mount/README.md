@@ -2,12 +2,12 @@
 
 A simple thing to mount the Raspberry pi to an SSR mount.
 
-<img src="images/design.jpg" width="100%" height="100%">
+This mod includes now includes two version:
 
-## BOM
-- 2 of M4 screws
-- 4 of M3 screws
-- 4 of M3 heatset insert
+- v1 uses m4 screws and m3 screws with heatset inserts.
+- v2 uses  included SSR screws and m2x10 self tapping screws.
+
+<img src="images/design.jpg" width="100%" height="100%">
 
 ## Info
 
