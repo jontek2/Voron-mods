@@ -4,8 +4,8 @@ This is a combo mod of https://github.com/VoronDesign/VoronUsers/tree/main/print
 
 Dimensions for the hole:
 
-- ID: 14mm
-- OD: 19mm
+- ID: 7mm
+- OD: 16mm
 
 <img src="img/image1.png" width="100%" height="100%">
 
