@@ -12,7 +12,7 @@ Dimensions for the hole:
 ## BOM
 - 1 of Threaded Push-fit Connector for reversed bowden
 - 2 of M5x12
-- 5 of M5 T-nut
+- 2 of M5 T-nut
 
 ## Credit
 
